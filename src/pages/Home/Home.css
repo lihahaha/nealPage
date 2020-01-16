@@ -1,0 +1,14 @@
+.home-content{
+    display: 'flex';
+    align-items: 'center';
+    justify-content: 'center';
+    height: '150px';
+    background-color: '#fff';
+}
+
+.Home-tab-botoom {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+}

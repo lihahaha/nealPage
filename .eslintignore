@@ -1,0 +1,19 @@
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+# Dist
+build/*
+dist/*
+
+# Public
+public/*
+
+# OSX
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+npm-debug.log.*
