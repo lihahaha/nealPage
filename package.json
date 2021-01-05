@@ -20,7 +20,7 @@
         "@typescript-eslint/parser": "^2.7.0",
         "antd-mobile": "^2.3.1",
         "awesome-typescript-loader": "^5.2.1",
-        "axios": "^0.19.1",
+        "axios": "^0.21.1",
         "babel-polyfill": "^6.26.0",
         "enquire-js": "^0.2.1",
         "eslint": "^6.6.0",
